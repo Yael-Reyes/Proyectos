@@ -1,7 +1,14 @@
 import heapq
 import networkx as nx
 import matplotlib.pyplot as plt
-
+'''
+Algoritmo de Dijkstra (Búsqueda de ruta más corta en calles de una ciudad)
+Este programa utiliza el algoritmo de Dijkstra para encontrar la ruta más 
+corta entre dos ubicaciones en una ciudad. Se representa un mapa con nodos 
+como puntos de interés (casa, supermercado, escuela, etc.) y aristas con pesos 
+que indican la distancia o el tiempo de viaje. La ruta óptima se muestra en una 
+gráfica resaltada en rojo.
+'''
 def dijkstra(graph, start, goal):
     queue = []
     heapq.heappush(queue, (0, start))  # (cost, node)
