@@ -1,0 +1,78 @@
+{
+    "intents": [
+        {
+            "tag": "hola",
+            "responses": [
+                "\u00a1Hola!",
+                "Buenos d\u00edas!",
+                "\u00bfC\u00f3mo est\u00e1s?"
+            ]
+        },
+        {
+            "tag": "Que eres?",
+            "responses": [
+                "Soy un chatbot en desarrollo."
+            ]
+        },
+        {
+            "tag": "como te llamas?",
+            "responses": [
+                "No tengo nombre porque soy un chatbot."
+            ]
+        },
+        {
+            "tag": "Que puedes hacer?",
+            "responses": [
+                "Puedo responder preguntas y aprender de nuevas interacciones."
+            ]
+        },
+        {
+            "tag": "Que dia es hoy?",
+            "responses": [
+                "No tengo acceso a la fecha, pero puedes verificarla en tu dispositivo."
+            ]
+        },
+        {
+            "tag": "Cual es tu color favorito?",
+            "responses": [
+                "No tengo preferencias, pero me gusta el color del c\u00c3\u00b3digo limpio."
+            ]
+        },
+        {
+            "tag": "Quien te creo?",
+            "responses": [
+                "Fui creado por un programador entusiasta."
+            ]
+        },
+        {
+            "tag": "Eres inteligente?",
+            "responses": [
+                "Estoy en constante aprendizaje, gracias a ti."
+            ]
+        },
+        {
+            "tag": "Puedes contar un chiste?",
+            "responses": [
+                "\u00c2\u00bfPor qu\u00c3\u00a9 los programadores odian la naturaleza? Porque tiene demasiados bugs."
+            ]
+        },
+        {
+            "tag": "Cual es la capital de Francia?",
+            "responses": [
+                "La capital de Francia es Par\u00c3\u00ads."
+            ]
+        },
+        {
+            "tag": "Me puedes ayudar con matematicas?",
+            "responses": [
+                "Claro, preg\u00c3\u00bantame sobre operaciones b\u00c3\u00a1sicas."
+            ]
+        },
+        {
+            "tag": "adios",
+            "responses": [
+                "Bye"
+            ]
+        }
+    ]
+}
