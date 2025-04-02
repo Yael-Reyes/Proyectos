@@ -1,0 +1,12 @@
+{
+    "preguntas": [
+        "¿Tiene cuatro patas?",
+        "¿Vuela?",
+        "¿Vive en el agua?"
+    ],
+    "animales": {
+        "gato": [1, 0, 0],
+        "águila": [0, 1, 0],
+        "pez": [0, 0, 1]
+    }
+}
