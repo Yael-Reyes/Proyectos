@@ -1,0 +1,549 @@
+{
+    "ballena": [
+        "algunas tienen barbas (filtran plancton)",
+        "algunas tienen dientes (cachalote)",
+        "es el animal más grande",
+        "es mamífero",
+        "migran largas distancias",
+        "nada",
+        "respira aire (espiráculo)",
+        "vive en el océano"
+    ],
+    "caballo": [
+        "corre rápido",
+        "es herbívoro",
+        "es mamífero",
+        "puede ser doméstico",
+        "relincha",
+        "se usa para montar",
+        "tiene crin y cola largas",
+        "tiene cuatro patas",
+        "tiene pelo"
+    ],
+    "cocodrilo": [
+        "es carnívoro",
+        "es excelente nadador",
+        "es un reptil",
+        "puede permanecer inmóvil",
+        "tiene cuatro patas",
+        "tiene escamas duras (placas óseas)",
+        "tiene mandíbulas muy fuertes",
+        "vive en ríos o pantanos"
+    ],
+    "delfín": [
+        "es mamífero",
+        "es muy inteligente",
+        "es social",
+        "nada muy bien",
+        "respira aire (espiráculo)",
+        "se comunica con sonidos",
+        "tiene piel lisa",
+        "vive en el agua"
+    ],
+    "elefante": [
+        "es herbívoro",
+        "es mamífero",
+        "es muy grande",
+        "tiene colmillos (a veces)",
+        "tiene cuatro patas",
+        "tiene orejas grandes",
+        "tiene piel gruesa",
+        "tiene trompa",
+        "vive en áfrica o asia"
+    ],
+    "gato": [
+        "es carnívoro",
+        "es doméstico",
+        "es mamífero",
+        "maulla",
+        "ronronea",
+        "tiene cuatro patas",
+        "tiene garras retráctiles",
+        "tiene pelo",
+        "tiene visión nocturna"
+    ],
+    "gorila": [
+        "camina sobre nudillos",
+        "es mamífero",
+        "es muy fuerte",
+        "es principalmente herbívoro",
+        "es un primate",
+        "tiene pelo oscuro",
+        "vive en grupos familiares",
+        "vive en selvas de áfrica"
+    ],
+    "jirafa": [
+        "es herbívoro",
+        "es mamífero",
+        "lengua larga y prensil",
+        "tiene cuatro patas",
+        "tiene cuello extremadamente largo",
+        "tiene manchas en el pelaje",
+        "tiene pequeños cuernos cubiertos de piel (osiconos)",
+        "vive en áfrica"
+    ],
+    "león": [
+        "caza en grupo",
+        "el macho tiene melena",
+        "es carnívoro",
+        "es mamífero",
+        "ruge fuerte",
+        "tiene cuatro patas",
+        "tiene pelo",
+        "vive en manadas",
+        "vive en áfrica"
+    ],
+    "murciélago": [
+        "come insectos o fruta o néctar",
+        "duerme colgado boca abajo",
+        "es mamífero",
+        "es nocturno",
+        "tiene alas formadas por membrana",
+        "usa ecolocalización",
+        "único mamífero que vuela activamente"
+    ],
+    "oso": [
+        "es grande y robusto",
+        "es mamífero",
+        "es omnívoro (la mayoría)",
+        "puede hibernar (algunos)",
+        "tiene buen olfato",
+        "tiene cuatro patas",
+        "tiene garras fuertes no retráctiles",
+        "tiene pelo grueso",
+        "vive en bosques o montañas"
+    ],
+    "oveja": [
+        "bala",
+        "es doméstica",
+        "es herbívoro",
+        "es mamífero",
+        "se cría por su lana y carne",
+        "tiene cuatro patas",
+        "tiene lana",
+        "vive en rebaños"
+    ],
+    "perro": [
+        "es carnívoro",
+        "es doméstico",
+        "es mamífero",
+        "ladra",
+        "tiene cola",
+        "tiene cuatro patas",
+        "tiene olfato desarrollado",
+        "tiene pelo"
+    ],
+    "pingüino": [
+        "camina erguido",
+        "come peces",
+        "es carnívoro",
+        "es un ave",
+        "nada muy bien",
+        "no vuela",
+        "tiene plumas",
+        "vive en climas fríos",
+        "vive en colonias"
+    ],
+    "rana": [
+        "come insectos",
+        "croa",
+        "es un anfibio",
+        "pasa por metamorfosis (renacuajo)",
+        "salta",
+        "tiene ojos saltones",
+        "tiene piel húmeda y lisa",
+        "vive cerca del agua"
+    ],
+    "serpiente": [
+        "cambia de piel",
+        "es carnívoro",
+        "es un reptil",
+        "no tiene patas",
+        "puede ser venenosa",
+        "se arrastra",
+        "tiene cuerpo alargado",
+        "tiene escamas"
+    ],
+    "tiburón": [
+        "es carnívoro",
+        "es un pez",
+        "respira por branquias",
+        "tiene aletas (dorsal característica)",
+        "tiene esqueleto cartilaginoso",
+        "tiene múltiples filas de dientes afilados",
+        "vive en el océano"
+    ],
+    "tigre": [
+        "es carnívoro",
+        "es gran nadador",
+        "es mamífero",
+        "es solitario",
+        "ruge",
+        "tiene cuatro patas",
+        "tiene pelo",
+        "tiene rayas negras",
+        "vive en asia"
+    ],
+    "vaca": [
+        "a veces tiene cuernos",
+        "da leche",
+        "es doméstica",
+        "es herbívoro",
+        "es mamífero",
+        "es rumiante",
+        "muge",
+        "tiene cuatro patas",
+        "tiene pelo"
+    ],
+    "águila": [
+        "construye nidos en lugares altos",
+        "es carnívoro",
+        "es un ave",
+        "tiene excelente vista",
+        "tiene garras fuertes",
+        "tiene pico ganchudo",
+        "tiene plumas",
+        "vuela alto"
+    ],
+    "zorro": [
+        "es mamífero",
+        "es carnívoro (omnívoro a veces)",
+        "tiene pelo (generalmente rojizo)",
+        "tiene cola peluda",
+        "es astuto",
+        "vive en madrigueras",
+        "tiene cuatro patas",
+        "es nocturno o crepuscular"
+    ],
+    "lobo": [
+        "es mamífero",
+        "es carnívoro",
+        "vive en manadas",
+        "aúlla",
+        "tiene cuatro patas",
+        "tiene pelo grueso",
+        "ancestro del perro",
+        "caza en grupo"
+    ],
+    "canguro": [
+        "es mamífero",
+        "es marsupial (lleva cría en bolsa)",
+        "es herbívoro",
+        "salta sobre patas traseras fuertes",
+        "tiene cola larga y robusta",
+        "vive en australia"
+    ],
+    "koala": [
+        "es mamífero",
+        "es marsupial",
+        "es herbívoro (come eucalipto)",
+        "vive en árboles",
+        "es nocturno",
+        "tiene pelo grisáceo",
+        "vive en australia"
+    ],
+    "panda": [
+        "es mamífero",
+        "es principalmente herbívoro (come bambú)",
+        "tiene pelaje blanco y negro",
+        "vive en china",
+        "es un tipo de oso",
+        "es buen trepador"
+    ],
+    "rinoceronte": [
+        "es mamífero",
+        "es herbívoro",
+        "es muy grande y pesado",
+        "tiene piel gruesa",
+        "tiene cuerno(s) en el hocico",
+        "tiene cuatro patas",
+        "vive en áfrica o asia"
+    ],
+    "hipopótamo": [
+        "es mamífero",
+        "es semiacuático",
+        "es herbívoro",
+        "es muy grande y pesado",
+        "tiene piel gruesa casi sin pelo",
+        "tiene boca enorme",
+        "vive en áfrica"
+    ],
+    "cebra": [
+        "es mamífero",
+        "es herbívoro",
+        "tiene pelaje con rayas blancas y negras",
+        "corre rápido",
+        "vive en áfrica",
+        "vive en manadas"
+    ],
+    "chimpancé": [
+        "es mamífero",
+        "es un primate",
+        "es omnívoro",
+        "es muy inteligente",
+        "usa herramientas",
+        "vive en grupos",
+        "vive en selvas de áfrica",
+        "camina sobre nudillos a veces"
+    ],
+    "orangután": [
+        "es mamífero",
+        "es un primate",
+        "es principalmente frugívoro",
+        "tiene pelo largo rojizo",
+        "vive en árboles",
+        "es solitario",
+        "vive en selvas de asia (borneo, sumatra)"
+    ],
+    "perezoso": [
+        "es mamífero",
+        "se mueve muy lentamente",
+        "es herbívoro",
+        "vive colgado de los árboles",
+        "tiene garras largas y curvas",
+        "vive en selvas de américa"
+    ],
+    "mapache": [
+        "es mamífero",
+        "es omnívoro",
+        "es nocturno",
+        "tiene antifaz oscuro en la cara",
+        "tiene cola anillada",
+        "es hábil con las patas delanteras",
+        "vive en américa"
+    ],
+    "ardilla": [
+        "es mamífero",
+        "es un roedor",
+        "come nueces y semillas",
+        "tiene cola peluda",
+        "es ágil trepador",
+        "vive en árboles o madrigueras"
+    ],
+    "conejo": [
+        "es mamífero",
+        "es herbívoro",
+        "tiene orejas largas",
+        "tiene patas traseras fuertes para saltar",
+        "tiene cola corta y redonda",
+        "puede ser doméstico"
+    ],
+    "hámster": [
+        "es mamífero",
+        "es un roedor",
+        "es pequeño",
+        "almacena comida en las mejillas (abazones)",
+        "es nocturno",
+        "a menudo es mascota"
+    ],
+    "erizo": [
+        "es mamífero",
+        "tiene el cuerpo cubierto de púas",
+        "se enrolla en una bola para defenderse",
+        "es nocturno",
+        "come insectos"
+    ],
+    "nutria": [
+        "es mamífero",
+        "es semiacuático",
+        "es carnívoro (come peces, crustáceos)",
+        "tiene cuerpo alargado y flexible",
+        "es juguetona",
+        "nada muy bien"
+    ],
+    "foca": [
+        "es mamífero marino",
+        "tiene cuerpo adaptado para nadar",
+        "tiene aletas",
+        "come peces",
+        "tiene capa de grasa",
+        "vive en costas o hielo"
+    ],
+    "morsa": [
+        "es mamífero marino",
+        "es grande",
+        "tiene largos colmillos (los machos)",
+        "tiene bigotes gruesos",
+        "vive en el ártico"
+    ],
+    "pato": [
+        "es un ave",
+        "es acuática (la mayoría)",
+        "tiene pico aplanado",
+        "tiene patas palmeadas",
+        "nada bien",
+        "algunas especies vuelan",
+        "hace \"cuac\""
+    ],
+    "ganso": [
+        "es un ave",
+        "es acuática",
+        "es más grande que un pato",
+        "tiene cuello largo",
+        "grazna",
+        "puede ser agresivo"
+    ],
+    "cisne": [
+        "es un ave",
+        "es acuática",
+        "es grande y elegante",
+        "tiene cuello muy largo (a menudo curvado)",
+        "generalmente plumaje blanco (adultos)",
+        "nada grácilmente"
+    ],
+    "colibrí": [
+        "es un ave",
+        "es muy pequeña",
+        "bate las alas muy rápido",
+        "puede flotar en el aire",
+        "se alimenta de néctar",
+        "tiene pico largo y fino"
+    ],
+    "loro": [
+        "es un ave",
+        "tiene plumaje colorido (a menudo)",
+        "tiene pico curvo y fuerte",
+        "puede imitar sonidos (algunos hablan)",
+        "trepa con pico y patas",
+        "come frutas/semillas"
+    ],
+    "tucán": [
+        "es un ave",
+        "tiene pico enorme y colorido",
+        "vive en selvas tropicales",
+        "come frutas"
+    ],
+    "búho": [
+        "es un ave rapaz",
+        "es nocturno",
+        "tiene ojos grandes frontales",
+        "tiene excelente oído",
+        "vuela silenciosamente",
+        "gira la cabeza casi 360 grados"
+    ],
+    "avestruz": [
+        "es un ave",
+        "es la más grande",
+        "no vuela",
+        "corre muy rápido",
+        "tiene cuello y patas largas",
+        "vive en áfrica"
+    ],
+    "pavo real": [
+        "es un ave",
+        "el macho tiene cola larga con plumas iridiscentes que abre en abanico",
+        "vive en asia"
+    ],
+    "gallina": [
+        "es un ave doméstica",
+        "se cría por huevos y carne",
+        "cacarea",
+        "el gallo canta",
+        "escarba en el suelo"
+    ],
+    "tortuga": [
+        "es un reptil",
+        "tiene caparazón óseo",
+        "se mueve lentamente (terrestres)",
+        "algunas nadan (marinas)",
+        "pone huevos en tierra"
+    ],
+    "lagarto": [
+        "es un reptil",
+        "tiene cuatro patas (la mayoría)",
+        "tiene cola larga (a menudo desprendible)",
+        "tiene escamas",
+        "toma el sol"
+    ],
+    "camaleón": [
+        "es un reptil",
+        "puede cambiar de color",
+        "tiene ojos que se mueven independientemente",
+        "tiene lengua larga y pegajosa",
+        "se mueve lentamente"
+    ],
+    "iguana": [
+        "es un reptil",
+        "es un lagarto grande",
+        "es principalmente herbívoro",
+        "a menudo tiene cresta dorsal",
+        "vive en zonas tropicales"
+    ],
+    "salamandra": [
+        "es un anfibio",
+        "tiene cuerpo alargado y cola",
+        "tiene piel húmeda",
+        "se parece a un lagarto pero es anfibio",
+        "algunas regeneran miembros"
+    ],
+    "pez payaso": [
+        "es un pez",
+        "vive en anémonas de mar",
+        "tiene colores brillantes (naranja, blanco, negro)",
+        "vive en arrecifes de coral"
+    ],
+    "pulpo": [
+        "es un molusco marino",
+        "tiene ocho tentáculos con ventosas",
+        "es muy inteligente",
+        "puede cambiar de color y textura",
+        "expulsa tinta para defenderse",
+        "no tiene huesos"
+    ],
+    "calamar": [
+        "es un molusco marino",
+        "tiene diez tentáculos (2 más largos)",
+        "cuerpo alargado",
+        "nada rápido",
+        "expulsa tinta"
+    ],
+    "cangrejo": [
+        "es un crustáceo",
+        "tiene caparazón duro",
+        "tiene diez patas (2 delanteras son pinzas)",
+        "camina de lado",
+        "vive en agua o cerca de ella"
+    ],
+    "langosta": [
+        "es un crustáceo marino",
+        "tiene cuerpo alargado",
+        "tiene caparazón duro",
+        "tiene pinzas grandes",
+        "es apreciada como alimento"
+    ],
+    "abeja": [
+        "es un insecto",
+        "produce miel",
+        "vive en colonias (colmenas)",
+        "poliniza flores",
+        "tiene aguijón (hembras)",
+        "tiene rayas amarillas y negras"
+    ],
+    "hormiga": [
+        "es un insecto",
+        "vive en colonias organizadas (hormigueros)",
+        "es muy fuerte para su tamaño",
+        "se comunica con feromonas",
+        "tiene antenas acodadas"
+    ],
+    "mariposa": [
+        "es un insecto",
+        "tiene alas grandes y coloridas",
+        "vuela de día",
+        "se alimenta de néctar",
+        "pasa por metamorfosis (oruga -> crisálida -> mariposa)"
+    ],
+    "mosca": [
+        "es un insecto",
+        "tiene dos alas funcionales",
+        "tiene ojos compuestos grandes",
+        "a menudo se considera una plaga"
+    ],
+    "araña": [
+        "es un arácnido (no insecto)",
+        "tiene ocho patas",
+        "produce seda (telarañas)",
+        "la mayoría son carnívoras (comen insectos)",
+        "algunas son venenosas"
+    ]
+}
